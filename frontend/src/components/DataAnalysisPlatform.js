@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { LineChart, Line, BarChart, Bar, ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer,} from "recharts";
 import { Upload, TrendingUp, Database, BarChart3, Brain, FileText, Target,} from "lucide-react";
 
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://data-analysis-ml-app-1.onrender.com/api";
 
 const PROJECTS = [
   {
