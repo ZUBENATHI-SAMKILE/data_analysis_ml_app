@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ata_analysis_ml_app/static/css/main.fabbc2ec.css",
-    "main.js": "/ata_analysis_ml_app/static/js/main.502a9bfd.js",
-    "index.html": "/ata_analysis_ml_app/index.html",
-    "main.fabbc2ec.css.map": "/ata_analysis_ml_app/static/css/main.fabbc2ec.css.map",
-    "main.502a9bfd.js.map": "/ata_analysis_ml_app/static/js/main.502a9bfd.js.map"
+    "main.css": "/data_analysis_ml_app/static/css/main.fabbc2ec.css",
+    "main.js": "/data_analysis_ml_app/static/js/main.502a9bfd.js",
+    "index.html": "/data_analysis_ml_app/index.html",
+    "main.fabbc2ec.css.map": "/data_analysis_ml_app/static/css/main.fabbc2ec.css.map",
+    "main.502a9bfd.js.map": "/data_analysis_ml_app/static/js/main.502a9bfd.js.map"
   },
   "entrypoints": [
     "static/css/main.fabbc2ec.css",
