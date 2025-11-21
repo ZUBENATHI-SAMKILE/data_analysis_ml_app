@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ata_analysis_ml_app/static/css/main.fabbc2ec.css",
+    "main.js": "/ata_analysis_ml_app/static/js/main.c314e8ea.js",
+    "index.html": "/ata_analysis_ml_app/index.html",
+    "main.fabbc2ec.css.map": "/ata_analysis_ml_app/static/css/main.fabbc2ec.css.map",
+    "main.c314e8ea.js.map": "/ata_analysis_ml_app/static/js/main.c314e8ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fabbc2ec.css",
+    "static/js/main.c314e8ea.js"
+  ]
+}
